@@ -1,0 +1,18 @@
+.nav > li{
+    border: solid 1px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #080808;
+    text-align: center;
+    font-size: large;
+}
+
+.navbar-brand {
+     font-weight: bold;
+     font-size: 30px;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border: none;
+}
